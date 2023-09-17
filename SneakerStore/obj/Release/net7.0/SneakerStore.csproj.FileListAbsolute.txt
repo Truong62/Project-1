@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\Project_k1\SneakerStore\bin\Release\net7.0\SneakerStore.deps.json
+C:\Users\pc\Desktop\Project_k1\SneakerStore\bin\Release\net7.0\SneakerStore.dll
+C:\Users\pc\Desktop\Project_k1\SneakerStore\bin\Release\net7.0\SneakerStore.pdb
+C:\Users\pc\Desktop\Project_k1\SneakerStore\obj\Release\net7.0\SneakerStore.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Project_k1\SneakerStore\obj\Release\net7.0\SneakerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Project_k1\SneakerStore\obj\Release\net7.0\SneakerStore.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Project_k1\SneakerStore\obj\Release\net7.0\SneakerStore.AssemblyInfo.cs
+C:\Users\pc\Desktop\Project_k1\SneakerStore\obj\Release\net7.0\SneakerStore.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Project_k1\SneakerStore\obj\Release\net7.0\SneakerStore.dll
+C:\Users\pc\Desktop\Project_k1\SneakerStore\obj\Release\net7.0\refint\SneakerStore.dll
+C:\Users\pc\Desktop\Project_k1\SneakerStore\obj\Release\net7.0\SneakerStore.pdb
+C:\Users\pc\Desktop\Project_k1\SneakerStore\obj\Release\net7.0\ref\SneakerStore.dll

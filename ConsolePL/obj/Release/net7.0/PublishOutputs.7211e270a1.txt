@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\EXE-Sneaker_Store\ConsolePL.exe
+C:\Users\pc\Desktop\EXE-Sneaker_Store\ConsolePL.dll
+C:\Users\pc\Desktop\EXE-Sneaker_Store\ConsolePL.deps.json
+C:\Users\pc\Desktop\EXE-Sneaker_Store\ConsolePL.runtimeconfig.json
+C:\Users\pc\Desktop\EXE-Sneaker_Store\ConsolePL.pdb
+C:\Users\pc\Desktop\EXE-Sneaker_Store\MySqlConnector.dll
+C:\Users\pc\Desktop\EXE-Sneaker_Store\Spectre.Console.dll
+C:\Users\pc\Desktop\EXE-Sneaker_Store\SneakerStore.dll
+C:\Users\pc\Desktop\EXE-Sneaker_Store\SneakerStore.pdb
